@@ -1,4 +1,4 @@
-<mxfile modified="2019-10-31T02:35:16.111Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="wIPhVvQ98oYBbhlW3GNH" version="12.1.9" type="github" pages="14">
+<mxfile modified="2019-10-31T02:43:52.230Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="uhGFVBxeJGRhn6Fd3KJo" version="12.1.9" type="github" pages="14">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2376,7 +2376,7 @@
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-31" value="&lt;div&gt;TEREDATA&lt;/div&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;rotation=1;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
           <mxGeometry x="634" y="840" width="80" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-32" value="&lt;div&gt;MDSE DB&lt;/div&gt;&lt;div&gt;(SqlServer)&lt;/div&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
+        <mxCell id="4lAVGFtF6CPqmoMEBoJL-32" value="&lt;div&gt;FSSSAM DB&lt;/div&gt;&lt;div&gt;(SqlServer)&lt;/div&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
           <mxGeometry x="388" y="838" width="80" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-33" value="biz data" style="endArrow=classic;html=1;shadow=0;rounded=0;strokeColor=#FF0000;jumpStyle=arc;jumpSize=8;edgeStyle=orthogonalEdgeStyle;startArrow=classic;startFill=1;strokeWidth=3;exitX=0.574;exitY=1.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
@@ -2395,19 +2395,6 @@
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-35" value="&lt;div style=&quot;text-align: right&quot;&gt;&lt;span&gt;Redis&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cache_server;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
           <mxGeometry x="268.5" y="834.5" width="71" height="97.5" as="geometry"/>
         </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-36" value="Item Tab" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="847.5" as="sourcePoint"/>
-            <mxPoint x="885" y="779" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="885" y="832"/>
-              <mxPoint x="885" y="832"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-37" value="&lt;div&gt;Circular DB&lt;/div&gt;&lt;div&gt;(SqlServer)&lt;/div&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
-          <mxGeometry x="849" y="842.5" width="80" height="90" as="geometry"/>
-        </mxCell>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-38" value="Item info and Sales" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="671" y="840" as="sourcePoint"/>
@@ -2415,19 +2402,6 @@
             <Array as="points">
               <mxPoint x="671" y="800"/>
               <mxPoint x="671" y="800"/>
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-39" value="&lt;div&gt;CompetitorTab DB&lt;/div&gt;&lt;div&gt;(SqlServer)&lt;/div&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
-          <mxGeometry x="743" y="840" width="80" height="90" as="geometry"/>
-        </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-40" value="Competitor&#39;s item info" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779" y="841" as="sourcePoint"/>
-            <mxPoint x="779" y="781" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="779" y="801"/>
-              <mxPoint x="779" y="801"/>
             </Array>
           </mxGeometry>
         </mxCell>
