@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-04T10:00:12.255Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="QuHJ640_-VO7sssxAjdJ" version="12.1.9" type="github" pages="14">
+<mxfile modified="2019-11-04T10:03:33.090Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="VT137RKyTHmAcFkE7Gte" version="12.1.9" type="github" pages="14">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2470,6 +2470,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="euvi9T1aDAySknXJlhvp-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="Z-dVNyDsr_UpnfgCXz1n-1" source="k63Cu6EtrtCTSynCf4QI-24" target="kzcuVZj5-CGEVRxo6KQY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="500"/>
+              <mxPoint x="520" y="666"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="k63Cu6EtrtCTSynCf4QI-24" value="nginx" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" parent="Z-dVNyDsr_UpnfgCXz1n-1" vertex="1">
           <mxGeometry x="750.5" y="446" width="76.5" height="90" as="geometry"/>
         </mxCell>
@@ -2493,19 +2501,19 @@
         <mxCell id="wx3wXiz2bQHoWyffYttF-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="Z-dVNyDsr_UpnfgCXz1n-1" source="8PPWCOlZKC04yE8YCFOZ-0" target="k63Cu6EtrtCTSynCf4QI-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="635"/>
-              <mxPoint x="530" y="491"/>
+              <mxPoint x="480" y="604"/>
+              <mxPoint x="480" y="480"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8PPWCOlZKC04yE8YCFOZ-0" value="Firewall" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/networking/Firewall_02_128x128.png" vertex="1" parent="Z-dVNyDsr_UpnfgCXz1n-1">
-          <mxGeometry x="271" y="594.5" width="80" height="80" as="geometry"/>
+          <mxGeometry x="271" y="563.5" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="8PPWCOlZKC04yE8YCFOZ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" edge="1" parent="Z-dVNyDsr_UpnfgCXz1n-1" source="8PPWCOlZKC04yE8YCFOZ-1" target="8PPWCOlZKC04yE8YCFOZ-0">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="8PPWCOlZKC04yE8YCFOZ-1" value="Internet" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;labelPosition=center;verticalLabelPosition=middle;verticalAlign=middle;" vertex="1" parent="Z-dVNyDsr_UpnfgCXz1n-1">
-          <mxGeometry x="276" y="506" width="70" height="44" as="geometry"/>
+          <mxGeometry x="276" y="485" width="70" height="44" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
