@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-04T10:36:19.920Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ko1SEhbzbQ5Za2__nuaL" version="12.1.9" type="github" pages="14">
+<mxfile modified="2019-11-05T09:02:16.303Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="occU1eiWE7bPYK3iXUwY" version="12.1.9" type="github" pages="14">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2342,9 +2342,9 @@
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-26" value="ingress-nginx" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="4lAVGFtF6CPqmoMEBoJL-1">
           <mxGeometry x="579.5" y="446" width="76.5" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fillColor=#FF3333;dashed=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1" target="4lAVGFtF6CPqmoMEBoJL-22">
+        <mxCell id="4lAVGFtF6CPqmoMEBoJL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fillColor=#FF3333;dashed=1;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1" target="4lAVGFtF6CPqmoMEBoJL-22">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="246" y="710" as="sourcePoint"/>
+            <mxPoint x="240" y="687" as="sourcePoint"/>
             <mxPoint x="159" y="710" as="targetPoint"/>
             <Array as="points">
               <mxPoint x="246" y="687"/>
