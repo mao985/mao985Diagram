@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T02:34:05.373Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="uhRd-ZfbOviHQU86Oh-H" version="12.2.3" type="github" pages="16">
+<mxfile modified="2019-11-13T02:34:51.095Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="OD8hoB4bnTeiP1JtoeDh" version="12.2.3" type="github" pages="16">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2060,8 +2060,8 @@
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-5" value="&lt;div style=&quot;text-align: center; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;kubernetes&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=#A9C4EB;align=center;verticalAlign=top;dashed=1;fontSize=18;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
           <mxGeometry x="266" y="210" width="540" height="340" as="geometry"/>
         </mxCell>
-        <mxCell id="Ffsc0vxLKJyngO3zjiSH-14" value="UPC-IMAGE NETWORK&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
-          <mxGeometry x="346.5" y="140" width="280" height="30" as="geometry"/>
+        <mxCell id="Ffsc0vxLKJyngO3zjiSH-14" value="FSS PHOTO IMAGE NETWORK&amp;nbsp;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;&lt;span id=&quot;transmark&quot; style=&quot;display: none ; width: 0px ; height: 0px&quot;&gt;&lt;/span&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=24;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
+          <mxGeometry x="320.5" y="150" width="370" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-19" value="HCP&lt;br&gt;(FileServer)&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
           <mxGeometry x="412" y="609" width="67" height="91" as="geometry"/>
