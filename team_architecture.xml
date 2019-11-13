@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T09:49:02.811Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="ypBbG2q64WpOl7gF5ohB" version="12.2.3" type="github" pages="16">
+<mxfile modified="2019-11-13T09:51:05.602Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="iQVWmQyR6U3UWxBgiMyQ" version="12.2.3" type="github" pages="16">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2268,8 +2268,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-35" value="Redis" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;align=right;outlineConnect=0;shape=mxgraph.citrix.cache_server;direction=south;rotation=-90;horizontal=1;labelPosition=left;flipH=0;flipV=0;" parent="4lAVGFtF6CPqmoMEBoJL-1" vertex="1">
-          <mxGeometry x="270.25" y="757.75" width="97.5" height="71" as="geometry"/>
+        <mxCell id="4lAVGFtF6CPqmoMEBoJL-35" value="" style="verticalLabelPosition=top;aspect=fixed;html=1;verticalAlign=bottom;strokeColor=none;align=right;outlineConnect=0;shape=mxgraph.citrix.cache_server;direction=south;rotation=-90;horizontal=1;labelPosition=left;flipH=0;flipV=0;" parent="4lAVGFtF6CPqmoMEBoJL-1" vertex="1">
+          <mxGeometry x="270.25" y="759.75" width="97.5" height="71" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
