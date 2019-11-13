@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T09:54:42.075Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="kZVOyEy0xYwQd1Z0JOIf" version="12.2.3" type="github" pages="16">
+<mxfile modified="2019-11-13T10:00:55.691Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="_-_yA7xAeDTjQ-ptjc5x" version="12.2.3" type="github" pages="16">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2121,7 +2121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FSS SAM&#39;S" id="ejQL8bhagElYfZNIYuC6">
-    <mxGraphModel dx="854" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-0"/>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-1" parent="4lAVGFtF6CPqmoMEBoJL-0"/>
@@ -2192,7 +2192,7 @@
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-21" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.java;shadow=1;fillColor=none;gradientColor=#ffffff;" parent="4lAVGFtF6CPqmoMEBoJL-18" vertex="1">
           <mxGeometry x="107" y="60" width="16" height="16" as="geometry"/>
         </mxCell>
-        <mxCell id="4lAVGFtF6CPqmoMEBoJL-22" value="SMTP&lt;br&gt;(Mail Server)&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;" parent="4lAVGFtF6CPqmoMEBoJL-1" vertex="1">
+        <mxCell id="4lAVGFtF6CPqmoMEBoJL-22" value="SMTP PORT:25&lt;br&gt;(Mail Server)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.smtp_server;" parent="4lAVGFtF6CPqmoMEBoJL-1" vertex="1">
           <mxGeometry x="100" y="550.5" width="76" height="92" as="geometry"/>
         </mxCell>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" parent="4lAVGFtF6CPqmoMEBoJL-1" source="4lAVGFtF6CPqmoMEBoJL-26" target="4lAVGFtF6CPqmoMEBoJL-10" edge="1">
@@ -2234,7 +2234,7 @@
         <mxCell id="Yg8guvJoeOfIYr84NLfX-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#3399FF;dashed=1;" edge="1" parent="4lAVGFtF6CPqmoMEBoJL-1" source="4lAVGFtF6CPqmoMEBoJL-29" target="4lAVGFtF6CPqmoMEBoJL-26">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="Yg8guvJoeOfIYr84NLfX-6" value="http 80" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Yg8guvJoeOfIYr84NLfX-5">
+        <mxCell id="Yg8guvJoeOfIYr84NLfX-6" value="HTTP&amp;nbsp;&lt;br&gt;PORT:80" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="Yg8guvJoeOfIYr84NLfX-5">
           <mxGeometry y="17" relative="1" as="geometry">
             <mxPoint x="-17" y="17" as="offset"/>
           </mxGeometry>
