@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-13T02:34:51.095Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="OD8hoB4bnTeiP1JtoeDh" version="12.2.3" type="github" pages="16">
+<mxfile modified="2019-11-13T02:39:57.591Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="o_OUzjif2wuzG-JOYL7M" version="12.2.3" type="github" pages="16">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2508" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2064,7 +2064,7 @@
           <mxGeometry x="320.5" y="150" width="370" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-19" value="HCP&lt;br&gt;(FileServer)&lt;br&gt;" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
-          <mxGeometry x="412" y="609" width="67" height="91" as="geometry"/>
+          <mxGeometry x="496" y="609" width="67" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="Ffsc0vxLKJyngO3zjiSH-1" source="Ffsc0vxLKJyngO3zjiSH-22" target="Ffsc0vxLKJyngO3zjiSH-30">
           <mxGeometry relative="1" as="geometry">
@@ -2074,15 +2074,6 @@
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-22" value="ingress-nginx" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.proxy_server;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
           <mxGeometry x="491.5" y="244" width="76.5" height="90" as="geometry"/>
-        </mxCell>
-        <mxCell id="Ffsc0vxLKJyngO3zjiSH-23" value="Image Files" style="endArrow=classic;html=1;shadow=0;rounded=0;strokeColor=#3399FF;jumpStyle=arc;endSize=8;startArrow=classic;startFill=1;edgeStyle=orthogonalEdgeStyle;fontStyle=1" edge="1" parent="Ffsc0vxLKJyngO3zjiSH-1" source="Ffsc0vxLKJyngO3zjiSH-30" target="Ffsc0vxLKJyngO3zjiSH-19">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="500" as="sourcePoint"/>
-            <mxPoint x="416" y="630" as="targetPoint"/>
-            <Array as="points">
-              <mxPoint x="446" y="439"/>
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#3399FF;strokeWidth=1;fillColor=#FF3333;" edge="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
           <mxGeometry relative="1" as="geometry">
@@ -2118,10 +2109,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-29" value="Circular&lt;br&gt;(Business Application)" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
-          <mxGeometry x="124" y="386.5" width="62" height="80" as="geometry"/>
+          <mxGeometry x="124" y="391.5" width="62" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ffsc0vxLKJyngO3zjiSH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=#3399FF;" edge="1" parent="Ffsc0vxLKJyngO3zjiSH-1" source="Ffsc0vxLKJyngO3zjiSH-30" target="Ffsc0vxLKJyngO3zjiSH-19">
+          <mxGeometry relative="1" as="geometry"/>
         </mxCell>
         <mxCell id="Ffsc0vxLKJyngO3zjiSH-30" value="APP SERVER" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.cluster_server;" vertex="1" parent="Ffsc0vxLKJyngO3zjiSH-1">
-          <mxGeometry x="505.5" y="437.5" width="49" height="59" as="geometry"/>
+          <mxGeometry x="505" y="443" width="49" height="59" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
