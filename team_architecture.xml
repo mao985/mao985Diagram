@@ -1,4 +1,4 @@
-<mxfile modified="2019-12-09T05:55:55.132Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="yXDmNbOeGOtIgXJZ7muI" version="12.3.8" type="github" pages="18">
+<mxfile modified="2019-12-09T06:00:57.330Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="l0-BEOTOeIc9CTXTfMKl" version="12.3.8" type="github" pages="18">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="3076" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3224,7 +3224,7 @@
           <mxGeometry x="203.5" y="220" width="435" height="190" as="geometry"/>
         </mxCell>
         <mxCell id="8OO7qKj6rrG9o_fc3m8s-2" value="Register Center" style="html=1;dashed=0;whitespace=wrap;fillColor=#CCCCCC;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;verticalAlign=top;fontSize=15;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="QnFLIWBsALla7N3Hkgvi-1">
-          <mxGeometry x="543" y="270" width="50" height="70" as="geometry"/>
+          <mxGeometry x="485" y="280" width="50" height="70" as="geometry"/>
         </mxCell>
         <mxCell id="8OO7qKj6rrG9o_fc3m8s-3" value="Gateway" style="html=1;dashed=0;whitespace=wrap;fillColor=#CCCCCC;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;verticalAlign=top;fontSize=15;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="QnFLIWBsALla7N3Hkgvi-1">
           <mxGeometry x="296" y="270" width="50" height="70" as="geometry"/>
