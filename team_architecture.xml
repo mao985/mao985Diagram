@@ -1,6 +1,6 @@
-<mxfile modified="2019-11-28T02:14:40.006Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="q8O87ckABO0_aLGV7Ag8" version="12.3.1" type="github" pages="17">
+<mxfile modified="2019-12-09T05:20:29.755Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0" etag="S7mtLuBBXcNwGb08LvoT" version="12.3.8" type="github" pages="18">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
-    <mxGraphModel dx="2522" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
@@ -2121,7 +2121,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FSS SAM&#39;S" id="ejQL8bhagElYfZNIYuC6">
-    <mxGraphModel dx="1115" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-0"/>
         <mxCell id="4lAVGFtF6CPqmoMEBoJL-1" parent="4lAVGFtF6CPqmoMEBoJL-0"/>
@@ -2479,7 +2479,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="FSS" id="5mHMWoGg4CnXtThRoePe">
-    <mxGraphModel dx="1115" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uZY_IoHB3tRtN42Qzr6I-0"/>
         <mxCell id="uZY_IoHB3tRtN42Qzr6I-1" parent="uZY_IoHB3tRtN42Qzr6I-0"/>
@@ -2646,7 +2646,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QOUhjYVzOmr8jAEalNyi" name="MDSE">
-    <mxGraphModel dx="1115" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="uVp9UWIQfMn6LQQkCRHH-0"/>
         <mxCell id="uVp9UWIQfMn6LQQkCRHH-1" parent="uVp9UWIQfMn6LQQkCRHH-0"/>
@@ -2840,7 +2840,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="QwpoU--T1jzlMa4zKJZ8" name="E2E-GM">
-    <mxGraphModel dx="1115" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Z-dVNyDsr_UpnfgCXz1n-0"/>
         <mxCell id="Z-dVNyDsr_UpnfgCXz1n-1" parent="Z-dVNyDsr_UpnfgCXz1n-0"/>
@@ -2952,7 +2952,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oym8d_-q7WwQW4GAFkom" name="HCP_Image_service_robust">
-    <mxGraphModel dx="1115" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Dsh1UUuvPBTIAyGUMaAN-0"/>
         <mxCell id="Dsh1UUuvPBTIAyGUMaAN-1" parent="Dsh1UUuvPBTIAyGUMaAN-0"/>
@@ -3062,7 +3062,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fBQodcl8lCXG4o4IiTxv" name="HCPService">
-    <mxGraphModel dx="1094" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="FoHEopzBZTsEoLl5rh4I-0"/>
         <mxCell id="FoHEopzBZTsEoLl5rh4I-1" parent="FoHEopzBZTsEoLl5rh4I-0"/>
@@ -3186,6 +3186,37 @@
           <mxGeometry x="-0.2862" y="-3" relative="1" as="geometry">
             <mxPoint x="-12" y="13" as="offset"/>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="WMwmtwTrmksQwSl4HIXN" name="PCP-VenderPortal-interface">
+    <mxGraphModel dx="1422" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="QnFLIWBsALla7N3Hkgvi-0"/>
+        <mxCell id="QnFLIWBsALla7N3Hkgvi-1" parent="QnFLIWBsALla7N3Hkgvi-0"/>
+        <mxCell id="3xk_w2QtNJs-32YU4bei-0" value="&lt;div style=&quot;text-align: center; font-size: 18px;&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;kubernetes&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;gradientColor=#A9C4EB;align=left;verticalAlign=top;dashed=1;fontSize=18;" vertex="1" parent="QnFLIWBsALla7N3Hkgvi-1">
+          <mxGeometry x="70" y="230" width="660" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="-3Yz3jIIT4y4mEZF_Uln-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;sourcePerimeterSpacing=10;endSize=6;targetPerimeterSpacing=30;strokeWidth=1;fontSize=15;" edge="1" parent="QnFLIWBsALla7N3Hkgvi-1" source="3PVJqLd-8SSYTBsDn1A5-0" target="-3Yz3jIIT4y4mEZF_Uln-1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="3PVJqLd-8SSYTBsDn1A5-0" value="Biz Data(SQL Server)" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;rotation=1;" vertex="1" parent="QnFLIWBsALla7N3Hkgvi-1">
+          <mxGeometry x="338" y="650" width="80" height="90" as="geometry"/>
+        </mxCell>
+        <mxCell id="-3Yz3jIIT4y4mEZF_Uln-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;dashed=1;targetPerimeterSpacing=10;sourcePerimeterSpacing=10;" edge="1" parent="QnFLIWBsALla7N3Hkgvi-1" source="-3Yz3jIIT4y4mEZF_Uln-0" target="3PVJqLd-8SSYTBsDn1A5-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="388"/>
+              <mxPoint x="190" y="695"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-3Yz3jIIT4y4mEZF_Uln-0" value="PCP API" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;verticalAlign=top;fontSize=15;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="QnFLIWBsALla7N3Hkgvi-1">
+          <mxGeometry x="270" y="370" width="50" height="48" as="geometry"/>
+        </mxCell>
+        <mxCell id="-3Yz3jIIT4y4mEZF_Uln-1" value="PCP Main System" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=pod;verticalAlign=top;fontSize=15;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="QnFLIWBsALla7N3Hkgvi-1">
+          <mxGeometry x="510" y="349" width="50" height="70" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
