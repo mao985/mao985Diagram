@@ -1,4 +1,4 @@
-<mxfile modified="2020-01-08T02:04:54.635Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="eH8jbbhmz9ARk9PJqt1B" version="12.3.8" type="github" pages="19">
+<mxfile modified="2020-01-08T02:05:42.526Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="DmX9ux9ArXvgcrya08ES" version="12.3.8" type="github" pages="19">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="2520" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1260,6 +1260,9 @@
         <mxCell id="sDIIgSwGmYBGXcQ43JEI-0" value="Terradata" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;shadow=1;" vertex="1" parent="wWmj8fVBFhZmbmhfK_jF-1">
           <mxGeometry x="-1930" y="60" width="80" height="90" as="geometry"/>
         </mxCell>
+        <mxCell id="5eXpsb-NmyZp--nIcDef-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1;" edge="1" parent="wWmj8fVBFhZmbmhfK_jF-1" source="kQh1Op-WhU0q_eggtIf3-0" target="B9sER1qshZYj2EVyVktz-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="kQh1Op-WhU0q_eggtIf3-0" value="DB2" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;" vertex="1" parent="wWmj8fVBFhZmbmhfK_jF-1">
           <mxGeometry x="-1987" y="491.5" width="88" height="99" as="geometry"/>
         </mxCell>
@@ -1286,7 +1289,7 @@
           <mxGeometry x="-1815" y="250" width="80" height="90" as="geometry"/>
         </mxCell>
         <mxCell id="bFB_GvvbSpx2Cbiap2fC-0" value="SMART" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.xendesktop_server;dashed=1;fillColor=#FFFFFF;gradientColor=#F7F7F7;" vertex="1" parent="wWmj8fVBFhZmbmhfK_jF-1">
-          <mxGeometry x="-1810" y="445.5" width="75" height="91" as="geometry"/>
+          <mxGeometry x="-1812.5" y="499.5" width="75" height="91" as="geometry"/>
         </mxCell>
         <mxCell id="DlkB3nHZn494h1G5n7lg-0" value="Customer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/standard-free-icons/139/Profile01-128.png;rounded=0;shadow=0;glass=0;dashed=1;comic=0;strokeWidth=3;fillColor=#ffffff;align=left;" vertex="1" parent="wWmj8fVBFhZmbmhfK_jF-1">
           <mxGeometry x="-2400" y="463" width="56" height="56" as="geometry"/>
