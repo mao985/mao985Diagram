@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-13T02:05:12.948Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="WylDBdw5GPinyJefiIdd" version="13.1.1" type="github" pages="19">
+<mxfile modified="2020-05-13T02:09:40.384Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="Nugk20V2fdWPqv6k1EY_" version="13.1.1" type="github" pages="19">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1423,7 +1423,7 @@
         <mxCell id="lr7GQ8DICAzIihTJUdTu-396" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/applications/automation_tools.svg;" vertex="1" parent="1">
           <mxGeometry x="-1356.5" y="1560" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="lr7GQ8DICAzIihTJUdTu-400" value="sailpoint" style="rounded=1;whiteSpace=wrap;html=1;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-400" value="Sailpoint" style="rounded=1;whiteSpace=wrap;html=1;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-2457" y="1590.5" width="145" height="79" as="geometry" />
         </mxCell>
         <mxCell id="lr7GQ8DICAzIihTJUdTu-401" value="" style="endArrow=classic;html=1;shadow=0;rounded=0;strokeColor=#FF0000;jumpStyle=arc;jumpSize=8;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="lr7GQ8DICAzIihTJUdTu-367" target="lr7GQ8DICAzIihTJUdTu-400">
@@ -1442,6 +1442,21 @@
               <mxPoint x="-2190.5" y="1396" />
               <mxPoint x="-2150.5" y="1706" />
               <mxPoint x="-1940.5" y="1296" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-402" value="HCP Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;" vertex="1" parent="1">
+          <mxGeometry x="-1301" y="1900" width="60.33" height="81.53" as="geometry" />
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-403" value="JCC Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;fillColor=#FFFFFF;gradientColor=#F3FFF2;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-1830" y="1920" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-405" value="" style="endArrow=classic;html=1;shadow=0;rounded=0;strokeColor=#3399FF;jumpStyle=arc;endSize=8;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="lr7GQ8DICAzIihTJUdTu-403" target="lr7GQ8DICAzIihTJUdTu-367">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1701" y="2000" as="sourcePoint" />
+            <mxPoint x="-1591" y="2000" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1604" y="1965" />
             </Array>
           </mxGeometry>
         </mxCell>
