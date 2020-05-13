@@ -1,4 +1,4 @@
-<mxfile modified="2020-05-13T05:32:18.765Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="f5d_CUWh689ZJu6F0EdK" version="13.1.1" type="github" pages="19">
+<mxfile modified="2020-05-13T05:35:26.218Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36" etag="qKdHZyvcL1DMFvL8tVp_" version="13.1.1" type="github" pages="19">
   <diagram name="overview" id="b47d4184-1b6e-5d48-1527-2f5d0ee05bfc">
     <mxGraphModel dx="3076" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1207,6 +1207,10 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1469" y="1466" as="sourcePoint" />
             <mxPoint x="-1359" y="1466" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1160" y="1350" />
+              <mxPoint x="-1160" y="1350" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="353" value="Order information(How&lt;br&gt;to operate Host &lt;br&gt;to create order)&lt;br&gt;" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;fontSize=8;" parent="352" vertex="1" connectable="0">
@@ -1435,7 +1439,7 @@
           <mxGeometry x="-1736.5" y="1586" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="lr7GQ8DICAzIihTJUdTu-391" value="GRS" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1400" y="1621.5" width="79" height="48" as="geometry" />
+          <mxGeometry x="-1340" y="1621.5" width="79" height="48" as="geometry" />
         </mxCell>
         <mxCell id="lr7GQ8DICAzIihTJUdTu-392" value="&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;AutomationPO&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;align=center;strokeColor=#10739e;shadow=1;" vertex="1" parent="lr7GQ8DICAzIihTJUdTu-391">
           <mxGeometry x="-100" y="-70" width="170" height="109" as="geometry" />
@@ -1687,6 +1691,32 @@
             <Array as="points">
               <mxPoint x="-1300" y="750" />
               <mxPoint x="-740" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-455" value="MidPlatform" style="rounded=1;whiteSpace=wrap;html=1;align=center;strokeColor=#9673a6;fillColor=#e1d5e7;shadow=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="545" width="145" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-456" value="" style="endArrow=classic;html=1;shadow=0;rounded=0;strokeColor=#3399FF;jumpStyle=arc;endSize=8;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="lr7GQ8DICAzIihTJUdTu-455" target="0M351ReonvK7n7pBKHUQ-365">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2302" y="2118" as="sourcePoint" />
+            <mxPoint x="-1550" y="1932" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1250" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-457" value="User auth" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lr7GQ8DICAzIihTJUdTu-456">
+          <mxGeometry x="-0.1828" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lr7GQ8DICAzIihTJUdTu-458" value="" style="endArrow=classic;html=1;shadow=0;rounded=0;strokeColor=#FF33FF;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="lr7GQ8DICAzIihTJUdTu-392" target="323">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1389" y="1383" as="sourcePoint" />
+            <mxPoint x="-1026" y="1383" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1350" y="1390" />
             </Array>
           </mxGeometry>
         </mxCell>
